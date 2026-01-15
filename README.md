@@ -12,7 +12,7 @@ Die KI basiert auf dem **AlphaZero-General Ansatz** (MCTS + Neural Network) und 
 ## Setup / Installation
 
 ### Voraussetzungen
-- Python 3.x
+- Python 3.12
 
 ### Installation
 ```bash
