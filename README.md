@@ -36,6 +36,7 @@ python train_tictactoe_quick.py
 ### Tests (alle Spiele)
 ````bash
 python test_all_games.py
+````
 
 
 ### Loss-Plot (optional)
