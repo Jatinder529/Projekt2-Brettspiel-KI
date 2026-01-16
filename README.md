@@ -21,6 +21,8 @@ pip install -r requirements.txt
 ## Ausführen
 ```bash
 python play_kirche.py
+python train_variant_1.py
+python train_variant_2.py
 ````
 
 ### TicTacToe (2D) starten
